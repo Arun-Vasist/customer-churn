@@ -50,9 +50,14 @@ These plots are produced with ggplot and cowplot.
 #### Linear models are more interpretable but usually are not very accurate.
 #### We will examine both linear model and a more complex model like xgboost in Part 2.
 
-These are the coefficients obtained from logistic regression.
+These are the coefficients obtained from logistic regression -
 
 ![Coef plot](https://github.com/Arun-Vasist/customer-churn/blob/master/coef_plot.png)
+
+This are the feature importances from xgboost -
+
+![Feature Importances](https://github.com/Arun-Vasist/customer-churn/blob/master/coef_plot.png)
+
 
 
 
