@@ -17,9 +17,8 @@ For EDA we use the following packages -
 5. corrr
 
 These plots are produced with ggplot and cowplot.
-![Grid 1](https://github.com/Arun-Vasist/customer-churn/blob/master/grid1.png)
-![Grid 2](https://github.com/Arun-Vasist/customer-churn/blob/master/grid2.png)
-
+<img src="https://github.com/Arun-Vasist/customer-churn/blob/master/grid1.png" width="600" height="600" />
+<img src="https://github.com/Arun-Vasist/customer-churn/blob/master/grid2.png" width="600" height="600" />
 
 
 ### Next we perform correlation analysis -
