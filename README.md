@@ -56,7 +56,7 @@ These are the coefficients obtained from logistic regression -
 
 This are the feature importances from xgboost -
 
-![Feature Importances](https://github.com/Arun-Vasist/customer-churn/blob/master/coef_plot.png)
+![Feature Importances](https://github.com/Arun-Vasist/customer-churn/blob/master/feature_importances.png)
 
 ## Part 3: H2O and Gain Lift charts
 
