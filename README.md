@@ -52,15 +52,15 @@ These plots are produced with ggplot and cowplot.
 
 These are the coefficients obtained from logistic regression -
 
-<img src="https://github.com/Arun-Vasist/customer-churn/blob/master/coef_plot.png" width="200" height="400" />
+<img src="https://github.com/Arun-Vasist/customer-churn/blob/master/coef_plot.png" width="400" height="400" />
 
 This are the feature importances from xgboost -
 
-<img src="https://github.com/Arun-Vasist/customer-churn/blob/master/feature_importances.png" width="200" height="400" />
+<img src="https://github.com/Arun-Vasist/customer-churn/blob/master/feature_importances.png" width="400" height="400" />
 
 ## Part 3: H2O and Gain Lift charts
 
-<img src="https://www.h2o.ai/wp-content/themes/h2o2018/templates/dist/images/h2o_logo.svg" width="200" height="400" />
+<img src="https://www.h2o.ai/wp-content/themes/h2o2018/templates/dist/images/h2o_logo.svg" width="200" height="200" />
 
 #### In part 3 we will use H2O AutoML to get a better model than xgboost model from part 2 with minimal effort.
 #### Then we create Gain Lift charts to show executives how much better off we are due to the model.
@@ -69,11 +69,11 @@ With AutoML we get a logloss of 0.45 which is much better than what the 2.11 we 
 
 Gain chart -
 
-<img src="https://github.com/Arun-Vasist/customer-churn/blob/master/gain_chart.png" width="200" height="400" />
+<img src="https://github.com/Arun-Vasist/customer-churn/blob/master/gain_chart.png" width="400" height="400" />
 
 Lift chart -
 
-<img src="https://github.com/Arun-Vasist/customer-churn/blob/master/lift_chart.png" width="200" height="400" />
+<img src="https://github.com/Arun-Vasist/customer-churn/blob/master/lift_chart.png" width="400" height="400" />
 
 
 
