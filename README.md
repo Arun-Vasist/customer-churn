@@ -21,6 +21,11 @@ These plots are produced with ggplot and cowplot.
 ![Grid 2](https://github.com/Arun-Vasist/customer-churn/blob/master/grid2.png)
 
 
+
+Next we perform **correlation** analysis.
+![Corr plot](https://github.com/Arun-Vasist/customer-churn/blob/master/corr_plot.png)
+
+
 ### Factors with which churn increases -
 * Month to month contract
 * No online security.
@@ -33,9 +38,6 @@ These plots are produced with ggplot and cowplot.
 * High tenure
 * Two year contract
 * No internet service
-
-Next we perform **correlation** analysis.
-![Grid 2](https://github.com/Arun-Vasist/customer-churn/blob/master/corr_plot.png)
 
 
 
