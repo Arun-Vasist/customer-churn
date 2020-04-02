@@ -7,7 +7,7 @@ The analysis is divided into three parts.
 2. Modelling with tidymodels
 3. H2O AutoML
 
-## 1. EDA
+## Part 1: EDA
 
 For EDA we use the following packages -
 1. ggplot
@@ -51,6 +51,7 @@ These plots are produced with ggplot and cowplot.
 #### We will examine both linear model and a more complex model like xgboost in Part 2.
 
 These are the coefficients obtained from logistic regression.
+
 ![Coef plot](https://github.com/Arun-Vasist/customer-churn/blob/master/coef_plot.png)
 
 
