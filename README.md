@@ -3,9 +3,9 @@
 We analyse customer churn data to find the factors leading to churn.
 
 The analysis is divided into three parts.
-1. [EDA](##part1:-eda)
-2. [Modelling with tidymodels](##part-2:-modelling)
-3. [H2O AutoML and Gain Lift charts](##part-3:-h2o-and-gain-lift-charts)
+1. [EDA](#part1:-eda)
+2. [Modelling with tidymodels](#part-2:-modelling)
+3. [H2O AutoML and Gain Lift charts](#part-3:-h2o-and-gain-lift-charts)
 
 ## Part 1: EDA
 
