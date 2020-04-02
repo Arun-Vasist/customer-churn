@@ -22,7 +22,7 @@ These plots are produced with ggplot and cowplot.
 
 
 
-Next we perform **correlation** analysis.
+### Next we perform correlation analysis.
 ![Corr plot](https://github.com/Arun-Vasist/customer-churn/blob/master/corr_plot.png)
 
 
