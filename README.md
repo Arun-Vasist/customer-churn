@@ -13,5 +13,29 @@ For EDA we use the following packages -
 1. ggplot
 2. DataExplorer
 3. funModeling
-4. corrr
+4. cowplot
+5. corrr
+
+These plots are produced with ggplot and cowplot.
+![Grid 1](https://github.com/Arun-Vasist/customer-churn/blob/master/grid1.png)
+![Grid 2](https://github.com/Arun-Vasist/customer-churn/blob/master/grid2.png)
+
+
+### Factors with which churn increases -
+* Month to month contract
+* No online security.
+* Fiber optic internet users
+* No tech support
+* Electronic check payment method
+* No online backup
+***
+### Factors with which churn decreases -
+* High tenure
+* Two year contract
+* No internet service
+
+Next we perform **correlation** analysis.
+![Grid 2](https://github.com/Arun-Vasist/customer-churn/blob/master/corr_plot2.png)
+
+
 
