@@ -35,7 +35,7 @@ These plots are produced with ggplot and cowplot.
 * No internet service
 
 Next we perform **correlation** analysis.
-![Grid 2](https://github.com/Arun-Vasist/customer-churn/blob/master/corr_plot2.png)
+![Grid 2](https://github.com/Arun-Vasist/customer-churn/blob/master/corr_plot.png)
 
 
 
