@@ -61,7 +61,7 @@ This are the feature importances from xgboost -
 
 ## Part 3: H2O and Gain Lift charts
 
-<img src="https://github.com/Arun-Vasist/customer-churn/blob/master/h2o_logo.png" width="300" height="300" />
+<img src="https://github.com/Arun-Vasist/customer-churn/blob/master/h2o_logo.png" width="200" height="200" />
 
 #### In part 3 we will use H2O AutoML to get a better model than xgboost model from part 2 with minimal effort.
 #### Then we create Gain Lift charts to show executives how much better off we are due to the model.
