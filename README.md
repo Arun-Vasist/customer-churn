@@ -22,7 +22,7 @@ These plots are produced with ggplot and cowplot.
 
 
 ### Next we perform correlation analysis -
-![Corr plot](https://github.com/Arun-Vasist/customer-churn/blob/master/corr_plot.png)
+<img src="https://github.com/Arun-Vasist/customer-churn/blob/master/corr_plot.png" width="600" height="600" />
 
 
 ### Factors with which churn increases -
@@ -44,7 +44,7 @@ These plots are produced with ggplot and cowplot.
 #### In part 2 we will train machine learning models to see what factors are leading to Churn.
 #### We use tidymodels packages like parsnip, recipes, tune, dials, yardstick to create models.
 
-<img src="https://github.com/tidymodels/tidymodels/blob/master/tidymodels_hex.png" width="300" height="300" />
+<img src="https://github.com/tidymodels/tidymodels/blob/master/tidymodels_hex.png" width="200" height="200" />
 
 ### Accuracy vs Interpretability Tradeoff
 
